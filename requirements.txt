@@ -7,3 +7,5 @@ matplotlib
 requests
 streamlit-lottie
 fpdf
+
+deployed link- https://dog-breed-id.streamlit.app/#technologies-used
